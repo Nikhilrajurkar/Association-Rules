@@ -1,2 +1,2 @@
 # Association-Rules
-Prepare rules for the all the data sets
+Preparing  rules for the book and movies dataset
